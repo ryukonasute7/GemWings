@@ -2,3 +2,4 @@
 //ショット
 //move
 //item
+//item2
